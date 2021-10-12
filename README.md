@@ -1,5 +1,29 @@
 # RecycledBoat
 
+A NodeMCU é uma pequena plataforma de desenvolvimento open source direcionada para o desenvolvimento de projetos no mundo da Internet das Coisas (IOT). Esta pequena, mas poderosa placa contém um microcontrolador ESP8266 que oferece suporte nativo para redes Wi-fi com as normas 802.11 b/g/n.
+
+<ul>
+<li><span style="font-weight: 400;">Wi-fi 2,4 Ghz com suporte para as normas 802.11 b/g/n</span>
+<ul>
+<li>WPA/WPA2</li>
+<li>Wi-Fi Direct (P2p), Soft Access Point</li>
+<li><span>Antena integrada</span></li>
+</ul>
+</li>
+<li>Power: 5V via porta micro USB</li>
+<li>Processador Tensilica LX106 - até 160MHz</li>
+<li>Pilha protocolar TCP/IP (apenas IPv4)</li>
+<li>Botão de Reset e Flash</li>
+<li>Memória RAM: 96<span>kBytes</span></li>
+<li>Memória ROM boot: 64 KBytes</li>
+<li>Memória flash: 4 MB</li>
+<li>Potência de saída: 0,15 (W); +19.5dBm em modo 802.11b</li>
+<li>Consumo em modo de baixa energia: &gt; 10 uA</li>
+<li><span>GPIO com funções de PWM, I2C, SPI, etc</span></li>
+<li><span>Conversor analógico digital (ADC)</span></li>
+<li>Dimensões: <span>49 x 24.5 x 13mm</span></li>
+</ul>
+
 <h3>Configuração do IDE</h3>
 Para que possamos programar o ESP8266 atráves do IDE Arduino será necessário fazer a instalação desta board no IDE.
 
