@@ -1,7 +1,9 @@
 # RecycledBoat
 
-A NodeMCU é uma pequena plataforma de desenvolvimento open source direcionada para o desenvolvimento de projetos no mundo da Internet das Coisas (IOT). Esta pequena, mas poderosa placa contém um microcontrolador ESP8266 que oferece suporte nativo para redes Wi-fi com as normas 802.11 b/g/n.
+<h3>Placa NodeMCU</h3>
+A placa NodeMCU é uma pequena plataforma de desenvolvimento open source direcionada para o desenvolvimento de projetos no mundo da Internet das Coisas (IOT). Esta pequena, mas poderosa placa contém um microcontrolador ESP8266 que oferece suporte nativo para redes Wi-fi com as normas 802.11 b/g/n.
 
+<h3>Características da placa NodeMCU</h3>
 <ul>
 <li><span style="font-weight: 400;">Wi-fi 2,4 Ghz com suporte para as normas 802.11 b/g/n</span>
 <ul>
