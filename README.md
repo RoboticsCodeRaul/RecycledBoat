@@ -1,6 +1,6 @@
 # RecycledBoat
 
-<h4>Configuração do IDE</h4>
+<h3>Configuração do IDE</h3>
 Para que possamos programar o ESP8266 atráves do IDE Arduino será necessário fazer a instalação desta board no IDE.
 
 Assim no IDE Arduino deve ir-se até menu Ficheiro->Preferências.
