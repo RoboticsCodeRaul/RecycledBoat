@@ -28,7 +28,6 @@ A placa NodeMCU é uma pequena plataforma de desenvolvimento open source direcio
 
 <h3>Diagrama de pinos da placa NodeMCU</h3>
 ![image](https://jgamblog.files.wordpress.com/2018/02/esp8266-nodemcu-pinout.png)
-![image](https://jgamblog.files.wordpress.com/2018/02/esp8266-nodemcu-pinout.png)
 
 <h3>Configuração do IDE</h3>
 Para que possamos programar o ESP8266 atráves do IDE Arduino será necessário fazer a instalação desta board no IDE.
